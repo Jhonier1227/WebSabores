@@ -34,7 +34,7 @@ Compilar y ejecutar el programa en tu IDE preferido.
 
 ## 📷 Capturas de Pantalla
 ![Logo de Web de saborees](/images/logo.png)
-![Logo de DoltNow](img/logo.png)
+![Logo de DoltNow](images/logo.png)
 ![Pantalla de inicio](/images/Captura%20de%20pantalla%202025-03-21%20160134.png)
 ![Apartado de reservación](/images/Captura%20de%20pantalla%202025-03-21%20160156.png)
 
